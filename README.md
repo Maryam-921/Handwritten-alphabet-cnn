@@ -1,5 +1,5 @@
 # 🖋️ Handwritten Alphabet Detection using CNN
-
+![App Screenshot](app_screenshot.png)
 ## Overview
 This project implements a Convolutional Neural Network (CNN) to recognize handwritten English alphabets (A–Z).
 Users can draw letters on a canvas in a web app powered by Streamlit, and the model predicts the corresponding letter in real-time. The app is deployed on Streamlit Cloud for public access
